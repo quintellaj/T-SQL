@@ -7,3 +7,5 @@ This Script was intended to serve a PowerBI project.
 Due to the difficulty of capturing the data and the way the client required it, the temporary table and the conversion of rows into columns were used.
 
 TESTE DEPOIS DE COMITAR
+
+comandos para restaurar alteracoes
