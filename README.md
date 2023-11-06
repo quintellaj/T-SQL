@@ -9,3 +9,5 @@ Due to the difficulty of capturing the data and the way the client required it, 
 TESTE DEPOIS DE COMITAR
 
 comandos para restaurar alteracoes
+
+COMANDOS PUSH PARA PUBLICAR
